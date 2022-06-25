@@ -1,5 +1,5 @@
 # CLUENER数据
-从[CLUENER2020数据集](https://www.cluebenchmarks.com/introduce.html)修改而来，去掉了书名(book)、游戏(game)、电影(movie)、景点(scene)，增加了时间(time)标注，最终保留了8589条训练数据，条验证数据
+从[CLUENER2020数据集](https://www.cluebenchmarks.com/introduce.html)修改而来，去掉了书名(book)、游戏(game)、电影(movie)、景点(scene)，增加了时间(time)标注，最终保留了8589条训练数据，1091条验证数据。
 
   ## 标签类别定义 & 标注规则：
     地址（ADDR）: **省**市**区**街**号，**路，**街道，**村等（如单独出现也标记）。地址是标记尽量完全的, 标记到最细。
